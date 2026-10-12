@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "BotToEverydayEnabledServer",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "mebot",
+    "username": "BotToEverydayEnabledServer",
+    "password": "1029384756",
     "type": "offline"
   },
   "server": {
-    "ip": "DeltaBoosts.aternos.me",
-    "port": 49138,
-    "version": "1.16.5",
+    "ip": "MineDeff.aternos.me",
+    "port": 60762,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "1029384756"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Я делаю серв беск",
+        "Заходи благодоря мне каждую секунду!",
+        "Я бот от BMW_i836 не кикай меня"
       ]
     },
     "chat-log": true,
